@@ -1,0 +1,4 @@
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\chartUpdater\bin\Debug\chartUpdater.dll
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\chartUpdater\bin\Debug\chartUpdater.pdb
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\chartUpdater\obj\Debug\chartUpdater.dll
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\chartUpdater\obj\Debug\chartUpdater.pdb

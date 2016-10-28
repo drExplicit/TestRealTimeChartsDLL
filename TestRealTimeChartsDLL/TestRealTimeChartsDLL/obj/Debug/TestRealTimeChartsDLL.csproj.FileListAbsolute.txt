@@ -1,0 +1,14 @@
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\TestRealTimeCharts.exe.config
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.exe
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.pdb
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\TestRealTimeCharts.exe
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\TestRealTimeCharts.pdb
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\chartUpdater.dll
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\bin\Debug\chartUpdater.pdb
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeChartsDLL.csprojResolveAssemblyReference.cache
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.Form1.resources
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeCharts.Properties.Resources.resources
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeCharts\TestRealTimeCharts\obj\Debug\TestRealTimeChartsDLL.csproj.GenerateResource.Cache
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeChartsDLL\TestRealTimeChartsDLL\bin\Debug\TestRealTimeCharts.exe.config
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeChartsDLL\TestRealTimeChartsDLL\obj\Debug\TestRealTimeCharts.exe
+C:\Users\x3rv1th\Documents\Visual Studio 2015\Projects\TestRealTimeChartsDLL\TestRealTimeChartsDLL\obj\Debug\TestRealTimeCharts.pdb
